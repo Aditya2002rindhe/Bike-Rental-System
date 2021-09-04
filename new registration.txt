@@ -1,0 +1,25 @@
+
+
+,2021-09-04 12:32:14.478609,python -u "d:\python\Bike rental system.py",2
+
+,2021-09-04 12:35:11.975609,Bajaj Dominar 400,2
+
+,2021-09-04 12:36:23.230159,bajaj dominar 400,2
+
+Adi,2021-09-04 13:37:05.147739,Bajaj pulsar ,2
+
+Yash,2021-09-04 13:41:54.524002,Bajaj pulsar,2
+
+Rohit,2021-09-04 13:44:51.591360,bajaj 125,2
+
+asdfdg,2021-09-04 16:58:59.727233,Bajaj platina,2
+
+aniket,2021-09-04 17:04:07.262917,Bajaj platina 110,1
+
+krishna,2021-09-04 17:05:23.350047,Bajaj pulsar 150,1
+
+amit,2021-09-04 17:30:43.940761,Bajaj pulsar,1
+
+asish,2021-09-04 17:51:57.933425,Bajaj pulsar 150,244523
+
+asfiod,2021-09-04 17:54:27.718986,Bajaj ct 100,27

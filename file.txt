@@ -1,0 +1,9 @@
+
+
+aditya,12/06/2018,102
+
+aaditya,python -u "d:\python\Bike rental system.py",python -u "d:\python\Bike rental system.py"
+
+amit,12/06,100
+
+Rohit,2021-9-04,1
